@@ -2,7 +2,15 @@
     margin-bottom: 50px;
 }
 .top-banner{
+    
     background-color: #FEEAE9;
+}
+.lable{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.product-info{
+    padding-left: 30px;
 }
 .btn-buy{
     background-color: #ff2178;
@@ -17,4 +25,22 @@
     font-size: small;
     width: 480;
 }
-.
+
+.categories-watch{
+    width: 380px;
+    
+    border-radius: 10px;
+    background-color: #FF9C35;
+}
+.categories-bag{
+    width: 380px;
+    
+    border-radius: 10px;
+    background-color: #FF589B;
+}
+.categories-shoes{
+    width: 380px;
+    ;
+    border-radius: 10px;
+    background-color: #4289FF;
+}
