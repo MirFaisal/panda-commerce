@@ -1,0 +1,20 @@
+.container-nav-bar{
+    margin-bottom: 50px;
+}
+.top-banner{
+    background-color: #FEEAE9;
+}
+.btn-buy{
+    background-color: #ff2178;
+    color: #ffffff;
+    border-radius: 5px;
+}
+.product-info{
+    margin-top: 25%;
+}
+
+.item-sony-headphones,.item-mi-tv,.item-xbox > p {
+    font-size: small;
+    width: 480;
+}
+.
